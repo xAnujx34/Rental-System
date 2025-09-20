@@ -1,0 +1,16 @@
+118 KTM bike 5000.00 1
+114 asa35 5 34.00 1
+112 ktm bike 670.00 1
+101 Activa Scooter 250.00 0
+102 Pulsar Bike 400.00 0
+103 Jupiter Scooter 275.00 0
+104 Splendor Bike 300.00 0
+106 Apache Bike 420.00 0
+107 Dio Scooter 260.00 0
+108 FZ Bike 410.00 0
+109 Access Scooter 255.00 0
+110 Bullet Bike 500.00 0
+111 HeroXtreme Bike 500.00 0
+115 KTM bike 1000.00 1
+116 Actica scooter 500.00 1
+117 ninja superbike 5000.00 1

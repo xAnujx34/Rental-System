@@ -1,0 +1,6 @@
+101 Activa Scooter 250.00 1001 Rented 2025-06-28
+102 Pulsar Bike 400.00 1002 Rented 2025-06-5
+103 Jupiter Scooter 260.00 1003 Returned 2025-06-20
+104 Apache Bike 380.00 1001 Returned 2025-06-5
+108 FZ Bike 410.00 9999 Returned 2025-06-25
+110 Bullet Bike 500.00 1001 Returned 2025-06-24
