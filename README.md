@@ -18,14 +18,14 @@ This project simulates a simple rental system for two-wheelers using core C prog
 - Basic error handling and input validation
 
 ## 📂 File Structure
-├── 1_user_mgmt.c
-├── 2_vehicle_mgmt.c
-├── 3_booking_system.c
-├── 4_return_system.c
-├── bookings.txt
-├── common.h
-├── main.c
-├── returns.txt
-├── users.txt
-├── vehicles.txt
-├── README.md
+- 1_user_mgmt.c
+- 2_vehicle_mgmt.c
+- 3_booking_system.c
+- 4_return_system.c
+- bookings.txt
+- common.h
+- main.c
+- returns.txt
+- users.txt
+- vehicles.txt
+- README.md
